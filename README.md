@@ -1,4 +1,4 @@
-# smartrecruiter
+# Smart Recruiter System
 Here we propose a solution to handle recruiting in a smarter way using the benefits of AI.
 Our application has two ends , one in which recruiter hires the candidates and the other in which canidadates can attend interviews and find necessary about them.
 We have made recruiter enpoints which has following sections.
