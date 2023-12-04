@@ -10,3 +10,10 @@ dotenv
 ntlk
 moviepy
 soundfile
+pathlib
+smtplib
+google
+email 
+googleapiclient
+datetime
+langchain
