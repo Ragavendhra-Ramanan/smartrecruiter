@@ -1,0 +1,12 @@
+streamlit
+openai
+pdfminer.six
+pandas
+requests
+re
+numpy
+faiss-cpu
+dotenv
+ntlk
+moviepy
+soundfile
